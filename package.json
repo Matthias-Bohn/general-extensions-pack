@@ -2,12 +2,26 @@
   "name": "general-extensions-pack",
   "displayName": "General Extensions Pack",
   "description": "Unlock the full potential of Visual Studio Code!.",
-  "version": "0.0.1",
+  "publisher": "MatthiasBohn",
+  "author": {
+    "name": "Matthias Bohn"
+  },
+  "version": "0.1",
   "engines": {
     "vscode": "^1.78.0"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lilbone/general-extensions-pack"
+  },
   "categories": [
     "Extension Packs"
+  ],
+  "keywords": [
+    "General Extensions Pack",
+    "MatthiasBohn",
+    "basic extension pack",
+    "basic extensions"
   ],
   "extensionPack": [ 
     "aaron-bond.better-comments", 
