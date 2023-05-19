@@ -14,6 +14,7 @@
     "type": "git",
     "url": "https://github.com/lilbone/general-extensions-pack"
   },
+  "icon": "images/icon/logo.jpeg",
   "categories": [
     "Extension Packs"
   ],
