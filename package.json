@@ -1,0 +1,39 @@
+{
+  "name": "general-extensions-pack",
+  "displayName": "General Extensions Pack",
+  "description": "Unlock the full potential of Visual Studio Code!.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.78.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [ 
+    "aaron-bond.better-comments", 
+    "adpyke.codesnap",
+    "christian-kohler.path-intellisense",
+    "franneck94.workspace-formatter",
+    "ryu1kn.partial-diff",
+    "yzhang.markdown-all-in-one",
+    "DavidAnson.vscode-markdownlint",
+    "ms-vscode.hexeditor",
+    "hancel.google-translate",
+    "esbenp.prettier-vscode",
+    "tomoki1207.pdf",
+    "vitaliymaz.vscode-svg-previewer",
+    "redhat.vscode-yaml",
+    "Donaldtone.auto-open-markdown-preview-single",
+    "tamasfe.even-better-toml",
+    "kamikillerto.vscode-colorize",
+    "PeterSchmalfeldt.explorer-exclude",
+    "waderyan.gitblame",
+    "alefragnani.project-manager",
+    "Gruntfuggly.todo-tree",
+    "vscode-icons-team.vscode-icons",
+    "zhuangtongfa.One-dark-pro",
+    "zhuangtongfa.material-theme",
+    "sdras.night-owl", 
+    "wesbos.theme-cobalt2"
+  ]
+}
