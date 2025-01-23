@@ -32,5 +32,7 @@ The Enhanced Essentials Pack is a comprehensive collection of extensions designe
 * One Dark Pro Lite
 * Night Owl
 * Cobalt 2
+* Bluloco Dark
+* Bluloco Light
 
 **Enjoy!**
